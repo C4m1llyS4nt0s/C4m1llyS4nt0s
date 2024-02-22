@@ -1,4 +1,4 @@
-### Hi there 👋
+### Olá👋
 Eu sou a Camilly Santos tenha 21 anos e sou estudante na área de programação.
 
 Faço Engenharia da Computação na Universidade Ceuma e faço parte do INCODE, um curso de programção de acréscimo para a minha área 
